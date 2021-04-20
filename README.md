@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @RooXChicken
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning SFML/c++
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me @rooxchicken twitter
+Hello, I like C++ and birds. Especially the birds.
 
 <!---
 RooXChicken/RooXChicken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
