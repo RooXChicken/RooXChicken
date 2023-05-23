@@ -1,4 +1,8 @@
-Hello, I like C++ and birds. Especially the birds.
+hii
+
+i have big eyebags
+i love minecraft and most luigi based products
+わたしはにほんごはべんきょうをします。
 
 <!---
 RooXChicken/RooXChicken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
