@@ -1,6 +1,6 @@
 hii
 
-i have big eyebags<br>
+my reason for getting out of bed is to make silly minecraft things
 
 <!---
 RooXChicken/RooXChicken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
